@@ -1,0 +1,2 @@
+# muda
+static site generator
